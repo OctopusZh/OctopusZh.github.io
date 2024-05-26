@@ -1,0 +1,6 @@
+[submodule "OctopusZh's Blog/themes\\qubt"]
+	path = OctopusZh's Blog/themes\\qubt
+	url = https://github.com/Chrede88/qubt.git
+[submodule "OctopusZh's Blog/themes/lightbi-hugo"]
+	path = OctopusZh's Blog/themes/lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo
