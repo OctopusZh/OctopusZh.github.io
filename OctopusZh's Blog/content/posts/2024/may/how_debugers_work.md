@@ -1,10 +1,11 @@
-+++
-title = 'How debugers work'
-date = 2024-05-26T18:34:56+08:00
-draft = false
-tags = ["debugger"]
-Description = "Introduce to linux debuggers in a simple way."
-+++
+---
+title: 'How debugers work'
+date: 2024-05-26T18:34:56+08:00
+description : "Introduce to linux debuggers in a simple way."
+tags: ["debugger", "assembly"]
+image : "/img/posts/gdb.png"
+draft: false
+---
 
 `Debuger` and `Compiler` are common tools for all developers. But I notice that there was too few information about how a debuger works compared to how a compiler works.
 
