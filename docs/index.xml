@@ -1,6 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OctopusZh's Blog</title><link>https://OctopusZh.github.io/</link><description>Recent content on OctopusZh's Blog</description><generator>Hugo</generator><language>en-us</language><copyright>OctopusZh</copyright><lastBuildDate>Sun, 26 May 2024 20:57:08 +0800</lastBuildDate><atom:link href="https://OctopusZh.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>How compilers work</title><link>https://OctopusZh.github.io/posts/2024/may/how_compilers_work/</link><pubDate>Sun, 26 May 2024 20:57:08 +0800</pubDate><guid>https://OctopusZh.github.io/posts/2024/may/how_compilers_work/</guid><description/></item><item><title>How debugers work</title><link>https://OctopusZh.github.io/posts/2024/may/how_debugers_work/</link><pubDate>Sun, 26 May 2024 18:34:56 +0800</pubDate><guid>https://OctopusZh.github.io/posts/2024/may/how_debugers_work/</guid><description>Debuger and Compiler are common tools for all developers. But I notice that there was too few information about how a debuger works compared to how a compiler works.
-Today, I will introduce you the principles of debuggers in linux1 in a simple way.</description></item><item><title>About</title><link>https://OctopusZh.github.io/about/</link><pubDate>Sun, 26 May 2024 18:16:18 +0800</pubDate><guid>https://OctopusZh.github.io/about/</guid><description>I am OctopusZh.
-A full-stack developer in Go/JAVA/Python/C/C++ and React/Vue.
-A freshman in cybersecurity.
-Be curious about all the unknown.
-And always a learner.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OctopusZh&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on OctopusZh&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>OctopusZh</copyright>
+    <lastBuildDate>Sun, 26 May 2024 21:42:13 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How compilers work</title>
+      <link>http://localhost:1313/posts/2024/may/how_compilers_work/</link>
+      <pubDate>Sun, 26 May 2024 20:57:08 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2024/may/how_compilers_work/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How debugers work</title>
+      <link>http://localhost:1313/posts/2024/may/how_debugers_work/</link>
+      <pubDate>Sun, 26 May 2024 18:34:56 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2024/may/how_debugers_work/</guid>
+      <description>Debuger and Compiler are common tools for all developers. But I notice that there was too few information about how a debuger works compared to how a compiler works.&#xA;Today, I will introduce you the principles of debuggers in linux1 in a simple way.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 26 May 2024 18:16:18 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I am OctopusZh.&#xA;A full-stack developer in Go/JAVA/Python/C/C++ and React/Vue.&#xA;A rookie in cybersecurity.&#xA;Curious about all the unknown.&#xA;And always a learner.</description>
+    </item>
+  </channel>
+</rss>

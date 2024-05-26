@@ -8,8 +8,8 @@ I am OctopusZh.
 
 A full-stack developer in Go/JAVA/Python/C/C++ and React/Vue.
 
-A freshman in cybersecurity.
+A rookie in cybersecurity.
 
-Be curious about all the unknown.
+Curious about all the unknown.
 
 And always a learner.
